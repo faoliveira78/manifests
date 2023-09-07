@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!--Device repos--> 
+  <project path="device/oneplus/cheeseburger_dumpling" name="faoliveira78/android_device_oneplus_cheeseburger_dumpling" remote="github" revision="android-12.1" />
+  
+</manifest>
