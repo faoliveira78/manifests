@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!--Device repos--> 
+  <project path="device/oneplus/cheesedump" name="PitchBlackRecoveryProject/android_device_oneplus_cheesedump-pbrp" remote="github" revision="android-12.1" />
+  
+</manifest>
